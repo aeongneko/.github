@@ -1,6 +1,3 @@
-### AeongOne
-
-I don't have an idea
-
-<kbd>GitHub</kbd> <kbd><a href="//twitchmod.aeong.one">TwitchMod Archive</a></kbd>
-
+### AeongNeko
+> [!WARNING]
+> Starting in August 2024, the domain will change to aeong.win.
